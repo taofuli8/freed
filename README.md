@@ -31,8 +31,8 @@
 
 ## 3. FreeDTV
 * FreeDTV｜APP
-  + https://www.lanzoui.com/b025mpw7e
   + https://github.com/FreeDTV/FreeD
+  + https://www.lanzoui.com/b025mpw7e
 * FreeDTV｜TV自建接口：
 
       https://github.com/FreeDTV/FreeD/raw/master/tv/
@@ -166,7 +166,7 @@ ___
   * [Cimoc ios版本更新预告](https://mp.weixin.qq.com/s/ENnTYWKIV5mRiDzjF-8xUA)
 * cilidili｜ipa包 (自己签名后再安装)
   * https://haleydu.lanzouq.com/iWMYPxph1zg
-  * [如何免费的自签IOS应用（IPA应用安装无需越狱）](https://www.bilibili.com/read/cv12665284)
+  * [IOS版本应用签名教程（免越狱）](https://mp.weixin.qq.com/s/52cRNqOfl_iDQG8PaFSDpQ)
 * 图源
 
       https://gitee.com/Haleydu/cilidili-plus/raw/master/source/customSource.json
