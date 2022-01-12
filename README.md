@@ -52,6 +52,8 @@ ___
 ## 1. 阅读
 * 阅读｜APP
   + https://github.com/gedoor/legado/releases/
+* 阅读｜更新一下这个书源
+  +  https://mp.weixin.qq.com/s/8VrU5OgeTfJ4Jq0EF3b7VQ
 * 阅读｜weixin｜书源合集更新【2022.01月】
   + https://mp.weixin.qq.com/s/m42PN_9yp1hVdyUIMRgSgw
   + haxc大佬的漫画源合集：
