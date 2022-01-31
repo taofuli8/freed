@@ -159,6 +159,7 @@ ___
 ## 2. Cimoc
 * Cimoc｜APP
   * https://github.com/Haleydu/Cimoc
+  * https://mp.weixin.qq.com/s/tRBPu9kzk5sSU6Gz4O1B-w
 * 导入图源 > 粘贴 >
 
       https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json
