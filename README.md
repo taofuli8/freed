@@ -26,8 +26,6 @@
   +  https://netcut.cn/
 * 猫影视TV｜接口
   + 设置 > 当前配置接口
-* 猫影视TV｜TG交流群
-  + https://t.me/catvodtv
 
 ## 3. FreeDTV
 * FreeDTV｜APP
@@ -52,22 +50,24 @@ ___
 ## 1. 阅读
 * 阅读｜APP
   + https://github.com/gedoor/legado/releases/
-* 阅读｜更新一下这个书源
-  +  https://mp.weixin.qq.com/s/8VrU5OgeTfJ4Jq0EF3b7VQ
-* 阅读｜weixin｜书源合集更新【2022.01月】
-  + https://mp.weixin.qq.com/s/m42PN_9yp1hVdyUIMRgSgw
+* 阅读｜weixin｜书源合集更新【2022.02月】
+  + https://mp.weixin.qq.com/s/MPZIvTcLD_CklOwvX9gmPQ
   + haxc大佬的漫画源合集：
   
         https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json
   + namofree大佬的书源（通用，精简，比较适合大多数人）：
-      1. 书源稳定，本月无更新。
+      1. 新增、修复了几个书源，删除失效书源；
+      2. 把原来删除的失效超星图书，找到修复版后重新加了进来；
+      3. 本书源适用于3.0版，2.0版阅读app应该大部分都能用，但不保证全部适用；
+      4. 建议把之前的Namo分组删除全新导入！
   
         https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json
   + 一程大佬的书源合集（通用，精简，比较适合大多数人）：
-      1. 旧例新增书源
-      2. 优化个别书源
-      3. 修复失效及已知问题书源
-      4. 删除无法修复的失效网站
+      1. 新增新书源
+      2. 书仓网、翻书阁等精选书源重写了手机版的
+      3. 修复失效书源
+      4. 删除了大量书源
+      5. 本次修改和删除的源比较多，建议删除全部旧书源再导入
   
         https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json
   + 破冰大佬的书源合集：（1000+优质书源合集，需复制到浏览器下载后使用本地导入方式进行导入）：
@@ -76,9 +76,6 @@ ___
   + 破冰大佬的听书源合集：(需复制到浏览器下载后使用本地导入方式进行导入)：
   
         https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
-  + 破冰6大佬的笔趣阁书源合集：
-  
-        https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/bqg.json
   + 糖果超甜大佬的女频书源合集：：
         
         https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json
